@@ -1,5 +1,8 @@
 # Security & Privacy in AIGC
-A list of research towards security & privacy in AI-Generated Content
+A list of research towards security & privacy in AI-Generated Content.  
+Sorted by the appearance on [arXiv](https://arxiv.org/).
+
+
 
 
 ### Image Generation
@@ -81,13 +84,13 @@ A list of research towards security & privacy in AI-Generated Content
 + [**Erasing Concepts from Diffusion Models**](https://arxiv.org/abs/2303.07345)  
 <font face="Calibri">*Rohit Gandikota, Joanna Materzynska, Jaden Fiotto-Kaufman, David Bau*</font>
 
-+ [**Raising the Cost of Malicious AI-Powered Image Editing**](https://arxiv.org/abs/2302.06588). *ICML 2023* 
++ [**Raising the Cost of Malicious AI-Powered Image Editing**](https://arxiv.org/abs/2302.06588). *ICML 2023*   
 <font face="Calibri">*Hadi Salman, Alaa Khaddaj, Guillaume Leclerc, Andrew Ilyas, Aleksander Madry*</font>
 
-+ [**Adversarial Example Does Good: Preventing Painting Imitation from Diffusion Models via Adversarial Examples**](https://arxiv.org/abs/2302.04578). *ICML 2023* 
++ [**Adversarial Example Does Good: Preventing Painting Imitation from Diffusion Models via Adversarial Examples**](https://arxiv.org/abs/2302.04578). *ICML 2023*   
 <font face="Calibri">*Chumeng Liang, Xiaoyu Wu, Yang Hua, Jiaru Zhang, Yiming Xue, Tao Song, Zhengui Xue, Ruhui Ma, Haibing Guan*</font>
 
-+ [**GLAZE: Protecting Artists from Style Mimicry by Text-to-Image Models**](https://arxiv.org/abs/2302.04222). *USENIX Security 2023*
++ [**GLAZE: Protecting Artists from Style Mimicry by Text-to-Image Models**](https://arxiv.org/abs/2302.04222). *USENIX Security 2023*  
 <font face="Calibri">*Shawn Shan, Jenna Cryan, Emily Wenger, Haitao Zheng, Rana Hanocka, Ben Y. Zhao*</font>
 
 + [**Extracting Training Data from Diffusion Models**](https://arxiv.org/abs/2301.13188)  
