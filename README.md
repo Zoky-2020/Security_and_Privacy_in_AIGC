@@ -2,10 +2,30 @@
 A list of research towards security & privacy in AI-Generated Content.  
 Sorted by the appearance on [arXiv](https://arxiv.org/).
 
+<!-- ### Survey
+### -->
 
+<!-- 
+Template
++ [**title**](link)  
+<font face="Calibri">*authors*</font> 
+-->
 
++ [**Security and Privacy on Generative Data in AIGC: A Survey**](https://arxiv.org/abs/2309.09435)  
+<font face="Calibri">*Tao Wang, Yushu Zhang, Shuren Qi, Ruoyu Zhao, Zhihua Xia, Jian Weng*</font> 
 
-### Image Generation
++ [**Unified Concept Editing in Diffusion Models**](https://arxiv.org/abs/2308.14761)  
+<font face="Calibri">*Rohit Gandikota, Hadas Orgad, Yonatan Belinkov, Joanna Materzyńska, David Bau*</font> 
+
++ [**Backdooring Textual Inversion for Concept Censorship**](https://arxiv.org/abs/2308.10718)  
+<font face="Calibri">*Yutong Wu, Jie Zhang, Florian Kerschbaum, Tianwei Zhang*</font> 
+
++ [**Training Data Protection with Compositional Diffusion Models**](https://arxiv.org/abs/2308.01937)  
+<font face="Calibri">*Aditya Golatkar, Alessandro Achille, Ashwin Swaminathan, Stefano Soatto*</font> 
+
++ [**Dual Governance: The intersection of centralized regulation and crowdsourced safety mechanisms for Generative AI**](https://arxiv.org/abs/2308.04448)  
+<font face="Calibri">*Avijit Ghosh, Dhanya Lakshmi*</font> 
+
 + [**On the Trustworthiness Landscape of State-of-the-art Generative Models: A Comprehensive Survey**](https://arxiv.org/abs/2307.16680)  
 <font face="Calibri">*Mingyuan Fan, Cen Chen, Chengyu Wang, Jun Huang*</font>
 
