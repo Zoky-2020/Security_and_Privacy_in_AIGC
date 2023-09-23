@@ -3,7 +3,7 @@ A list of research towards security & privacy in AI-Generated Content
 
 
 ### Image Generation
-+ [**On the Trustworthiness Landscape of State-of-the-art Generative Models: A Comprehensive Survey**](https://arxiv.org/abs/2307.16680)
++ [**On the Trustworthiness Landscape of State-of-the-art Generative Models: A Comprehensive Survey**](https://arxiv.org/abs/2307.16680)  
 <font face="Calibri">*Mingyuan Fan, Cen Chen, Chengyu Wang, Jun Huang*</font>
 
 + [**Not with my name! Inferring artists' names of input strings employed by Diffusion Models**](https://arxiv.org/abs/2307.13527)  
