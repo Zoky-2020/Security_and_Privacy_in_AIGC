@@ -2,8 +2,19 @@
 A list of research towards security & privacy in AI-Generated Content.  
 Sorted by the appearance on [arXiv](https://arxiv.org/).
 
-<!-- ### Survey
-### -->
+<!-- 
+Template
++ [**title**](link)  
+<font face="Calibri">*authors*</font> 
+-->
+
+### Survey
+
++ [**Security and Privacy on Generative Data in AIGC: A Survey**](https://arxiv.org/abs/2309.09435)  
+<font face="Calibri">*Tao Wang, Yushu Zhang, Shuren Qi, Ruoyu Zhao, Zhihua Xia, Jian Weng*</font> 
+
++ [**On the Trustworthiness Landscape of State-of-the-art Generative Models: A Comprehensive Survey**](https://arxiv.org/abs/2307.16680)  
+<font face="Calibri">*Mingyuan Fan, Cen Chen, Chengyu Wang, Jun Huang*</font>
 
 <!-- 
 Template
@@ -11,8 +22,12 @@ Template
 <font face="Calibri">*authors*</font> 
 -->
 
-+ [**Security and Privacy on Generative Data in AIGC: A Survey**](https://arxiv.org/abs/2309.09435)  
-<font face="Calibri">*Tao Wang, Yushu Zhang, Shuren Qi, Ruoyu Zhao, Zhihua Xia, Jian Weng*</font> 
+### Image generation
+
+
+
++ [**Distilling Adversarial Prompts from Safety Benchmarks: Report for the Adversarial Nibbler Challenge**](https://arxiv.org/abs/2309.11575)  
+<font face="Calibri">*Manuel Brack, Patrick Schramowski, Kristian Kersting*</font> 
 
 + [**Unified Concept Editing in Diffusion Models**](https://arxiv.org/abs/2308.14761)  
 <font face="Calibri">*Rohit Gandikota, Hadas Orgad, Yonatan Belinkov, Joanna Materzyńska, David Bau*</font> 
@@ -113,6 +128,9 @@ Template
 + [**GLAZE: Protecting Artists from Style Mimicry by Text-to-Image Models**](https://arxiv.org/abs/2302.04222). *USENIX Security 2023*  
 <font face="Calibri">*Shawn Shan, Jenna Cryan, Emily Wenger, Haitao Zheng, Rana Hanocka, Ben Y. Zhao*</font>
 
++ [**Membership Inference Attacks against Diffusion Models**](https://arxiv.org/abs/2302.03262)  
+<font face="Calibri">*Tomoya Matsumoto, Takayuki Miura, Naoto Yanai*</font>
+
 + [**Extracting Training Data from Diffusion Models**](https://arxiv.org/abs/2301.13188)  
 <font face="Calibri">*Nicholas Carlini, Jamie Hayes, Milad Nasr, Matthew Jagielski, Vikash Sehwag, Florian Tramèr, Borja Balle, Daphne Ippolito, Eric Wallace*</font>
 
@@ -125,4 +143,29 @@ Template
 
 + [**Membership Inference Attacks Against Text-to-image Generation Models**](https://arxiv.org/abs/2210.00968)  
 <font face="Calibri">*Yixin Wu, Ning Yu, Zheng Li, Michael Backes, Yang Zhang*</font>
+
+
+<!-- 
+Template
++ [**title**](link)  
+<font face="Calibri">*authors*</font> 
+-->
+
+### Watermark
+
++ [**Intellectual Property Protection of Diffusion Models via the Watermark Diffusion Process**](https://arxiv.org/abs/2306.03436)  
+<font face="Calibri">*Sen Peng, Yufei Chen, Cong Wang, Xiaohua Jia*</font>
+
++ [**DiffusionShield: A Watermark for Copyright Protection against Generative Diffusion Models**](https://arxiv.org/abs/2306.04642)  
+<font face="Calibri">*Yingqian Cui, Jie Ren, Han Xu, Pengfei He, Hui Liu, Lichao Sun, Yue Xing, Jiliang Tang*</font>
+
++ [**The Stable Signature: Rooting Watermarks in Latent Diffusion Models**](https://arxiv.org/abs/2303.15435)  
+<font face="Calibri">*Pierre Fernandez, Guillaume Couairon, Hervé Jégou, Matthijs Douze, Teddy Furon*</font>
+
+
+
+### Multimodal Foundation Modal
+
++ [**How Robust is Google's Bard to Adversarial Image Attacks?**](https://arxiv.org/abs/2309.11751)  
+<font face="Calibri">*Yinpeng Dong, Huanran Chen, Jiawei Chen, Zhengwei Fang, Xiao Yang, Yichi Zhang, Yu Tian, Hang Su, Jun Zhu*</font>
 
