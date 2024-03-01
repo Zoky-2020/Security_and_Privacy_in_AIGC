@@ -24,7 +24,6 @@ Template
 
 ### Image generation
 
-
 + [**Distilling Adversarial Prompts from Safety Benchmarks: Report for the Adversarial Nibbler Challenge**](https://arxiv.org/abs/2309.11575)  
 <font face="Calibri">*Manuel Brack, Patrick Schramowski, Kristian Kersting*</font> 
 
@@ -127,19 +126,6 @@ Template
 + [**GLAZE: Protecting Artists from Style Mimicry by Text-to-Image Models**](https://arxiv.org/abs/2302.04222). *USENIX Security 2023*  
 <font face="Calibri">*Shawn Shan, Jenna Cryan, Emily Wenger, Haitao Zheng, Rana Hanocka, Ben Y. Zhao*</font>
 
-+ [**Membership Inference Attacks against Diffusion Models**](https://arxiv.org/abs/2302.03262)  
-<font face="Calibri">*Tomoya Matsumoto, Takayuki Miura, Naoto Yanai*</font>
-
-+ [**Are Diffusion Models Vulnerable to Membership Inference Attacks?**](https://arxiv.org/abs/2302.01316)
-<font face="Calibri">*Jinhao Duan, Fei Kong, Shiqi Wang, Xiaoshuang Shi, Kaidi Xu*</font>
-
-+ [**Extracting Training Data from Diffusion Models**](https://arxiv.org/abs/2301.13188)  
-<font face="Calibri">*Nicholas Carlini, Jamie Hayes, Milad Nasr, Matthew Jagielski, Vikash Sehwag, Florian Tramèr, Borja Balle, Daphne Ippolito, Eric Wallace*</font>
-
-
-+ [**Membership Inference of Diffusion Models**](https://arxiv.org/abs/2301.09956)  
-<font face="Calibri">*Hailong Hu, Jun Pang*</font>
-
 + [**Diffusion Art or Digital Forgery? Investigating Data Replication in Diffusion Models**](https://arxiv.org/abs/2212.03860)  
 <font face="Calibri">*Gowthami Somepalli, Vasu Singla, Micah Goldblum, Jonas Geiping, Tom Goldstein*</font>
 
@@ -153,7 +139,67 @@ Template
 <font face="Calibri">*authors*</font> 
 -->
 
+### Membership Inference
+
++ [**Black-box Membership Inference Attacks against Fine-tuned Diffusion Models**](https://arxiv.org/abs/2312.08207)  
+<font face="Calibri">*Yan Pang, Tianhao Wang*</font> 
+
++ [**Membership Inference Attacks on Diffusion Models via Quantile Regression**](https://arxiv.org/abs/2312.05140)  
+<font face="Calibri">*Shuai Tang, Zhiwei Steven Wu, Sergul Aydore, Michael Kearns, Aaron Roth*</font> 
+
++ [**A Probabilistic Fluctuation based Membership Inference Attack for Diffusion Models**](https://arxiv.org/abs/2308.12143)  
+<font face="Calibri">*Wenjie Fu, Huandong Wang, Chen Gao, Guanghua Liu, Yong Li, Tao Jiang*</font> 
+
++ [**White-box Membership Inference Attacks against Diffusion Models**](https://arxiv.org/abs/2308.06405)  
+<font face="Calibri">*Yan Pang, Tianhao Wang, Xuhui Kang, Mengdi Huai, Yang Zhang*</font> 
+
++ [**Towards More Realistic Membership Inference Attacks on Large Diffusion Models**](https://arxiv.org/abs/2306.12983)  
+<font face="Calibri">*Jan Dubiński, Antoni Kowalczuk, Stanisław Pawlak, Przemysław Rokita, Tomasz Trzciński, Paweł Morawiecki*</font> 
+
++ [**An Efficient Membership Inference Attack for the Diffusion Model by Proximal Initialization**](https://arxiv.org/abs/2305.18355)  
+<font face="Calibri">*Fei Kong, Jinhao Duan, RuiPeng Ma, Hengtao Shen, Xiaofeng Zhu, Xiaoshuang Shi, Kaidi Xu*</font> 
+
++ [**A Reproducible Extraction of Training Images from Diffusion Models**](https://arxiv.org/abs/2305.08694)  
+<font face="Calibri">*Ryan Webster*</font> 
+
++ [**Data Forensics in Diffusion Models: A Systematic Analysis of Membership Privacy**](https://arxiv.org/abs/2302.07801)  
+<font face="Calibri">*Derui Zhu, Dingfan Chen, Jens Grossklags, Mario Fritz*</font> 
+
++ [**Membership Inference Attacks against Diffusion Models**](https://arxiv.org/abs/2302.03262)  
+<font face="Calibri">*Tomoya Matsumoto, Takayuki Miura, Naoto Yanai*</font>
+
++ [**Are Diffusion Models Vulnerable to Membership Inference Attacks?**](https://arxiv.org/abs/2302.01316)
+<font face="Calibri">*Jinhao Duan, Fei Kong, Shiqi Wang, Xiaoshuang Shi, Kaidi Xu*</font>
+
++ [**Extracting Training Data from Diffusion Models**](https://arxiv.org/abs/2301.13188)  
+<font face="Calibri">*Nicholas Carlini, Jamie Hayes, Milad Nasr, Matthew Jagielski, Vikash Sehwag, Florian Tramèr, Borja Balle, Daphne Ippolito, Eric Wallace*</font>
+
++ [**Membership Inference of Diffusion Models**](https://arxiv.org/abs/2301.09956)  
+<font face="Calibri">*Hailong Hu, Jun Pang*</font>
+
+
+<!-- 
+Template
++ [**title**](link)  
+<font face="Calibri">*authors*</font> 
+-->
+
 ### Watermark
+
++ [**EditGuard: Versatile Image Watermarking for Tamper Localization and Copyright Protection**](https://arxiv.org/abs/2312.08883)  
+<font face="Calibri">*Xuanyu Zhang, Runyi Li, Jiwen Yu, Youmin Xu, Weiqi Li, Jian Zhang*</font> 
+
++ [**A Somewhat Robust Image Watermark against Diffusion-based Editing Models**](https://arxiv.org/abs/2311.13713)  
+<font face="Calibri">*Mingtian Tan, Tianhao Wang, Somesh Jha*</font> 
+
++ [**Warfare:Breaking the Watermark Protection of AI-Generated Content**](https://arxiv.org/abs/2310.07726)  
+<font face="Calibri">*Guanlin Li, Yifei Chen, Jie Zhang, Jiwei Li, Shangwei Guo, Tianwei Zhang*</font> 
+
++ [**Leveraging Optimization for Adaptive Attacks on Image Watermarks**](https://arxiv.org/abs/2309.16952)  
+<font face="Calibri">*Nils Lukas, Abdulrahman Diaa, Lucas Fenaux, Florian Kerschbaum*</font> 
+
++ [**Catch You Everything Everywhere: Guarding Textual Inversion via Concept Watermarking**](https://arxiv.org/abs/2309.05940)  
+<font face="Calibri">*Weitao Feng, Jiyan He, Jie Zhang, Tianwei Zhang, Wenbo Zhou, Weiming Zhang, Nenghai Yu*</font> 
 
 + [**Intellectual Property Protection of Diffusion Models via the Watermark Diffusion Process**](https://arxiv.org/abs/2306.03436)  
 <font face="Calibri">*Sen Peng, Yufei Chen, Cong Wang, Xiaohua Jia*</font>
@@ -163,7 +209,6 @@ Template
 
 + [**Tree-Ring Watermarks: Fingerprints for Diffusion Images that are Invisible and Robust**](https://arxiv.org/abs/2305.20030)  
 <font face="Calibri">*Yuxin Wen, John Kirchenbauer, Jonas Geiping, Tom Goldstein*</font> 
-
 
 + [**The Stable Signature: Rooting Watermarks in Latent Diffusion Models**](https://arxiv.org/abs/2303.15435)  
 <font face="Calibri">*Pierre Fernandez, Guillaume Couairon, Hervé Jégou, Matthijs Douze, Teddy Furon*</font>
