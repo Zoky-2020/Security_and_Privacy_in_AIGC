@@ -25,7 +25,6 @@ Template
 ### Image generation
 
 
-
 + [**Distilling Adversarial Prompts from Safety Benchmarks: Report for the Adversarial Nibbler Challenge**](https://arxiv.org/abs/2309.11575)  
 <font face="Calibri">*Manuel Brack, Patrick Schramowski, Kristian Kersting*</font> 
 
@@ -131,6 +130,9 @@ Template
 + [**Membership Inference Attacks against Diffusion Models**](https://arxiv.org/abs/2302.03262)  
 <font face="Calibri">*Tomoya Matsumoto, Takayuki Miura, Naoto Yanai*</font>
 
++ [**Are Diffusion Models Vulnerable to Membership Inference Attacks?**](https://arxiv.org/abs/2302.01316)
+<font face="Calibri">*Jinhao Duan, Fei Kong, Shiqi Wang, Xiaoshuang Shi, Kaidi Xu*</font>
+
 + [**Extracting Training Data from Diffusion Models**](https://arxiv.org/abs/2301.13188)  
 <font face="Calibri">*Nicholas Carlini, Jamie Hayes, Milad Nasr, Matthew Jagielski, Vikash Sehwag, Florian Tramèr, Borja Balle, Daphne Ippolito, Eric Wallace*</font>
 
@@ -158,6 +160,10 @@ Template
 
 + [**DiffusionShield: A Watermark for Copyright Protection against Generative Diffusion Models**](https://arxiv.org/abs/2306.04642)  
 <font face="Calibri">*Yingqian Cui, Jie Ren, Han Xu, Pengfei He, Hui Liu, Lichao Sun, Yue Xing, Jiliang Tang*</font>
+
++ [**Tree-Ring Watermarks: Fingerprints for Diffusion Images that are Invisible and Robust**](https://arxiv.org/abs/2305.20030)  
+<font face="Calibri">*Yuxin Wen, John Kirchenbauer, Jonas Geiping, Tom Goldstein*</font> 
+
 
 + [**The Stable Signature: Rooting Watermarks in Latent Diffusion Models**](https://arxiv.org/abs/2303.15435)  
 <font face="Calibri">*Pierre Fernandez, Guillaume Couairon, Hervé Jégou, Matthijs Douze, Teddy Furon*</font>
