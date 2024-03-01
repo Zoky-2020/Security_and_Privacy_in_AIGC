@@ -129,9 +129,6 @@ Template
 + [**Diffusion Art or Digital Forgery? Investigating Data Replication in Diffusion Models**](https://arxiv.org/abs/2212.03860)  
 <font face="Calibri">*Gowthami Somepalli, Vasu Singla, Micah Goldblum, Jonas Geiping, Tom Goldstein*</font>
 
-+ [**Membership Inference Attacks Against Text-to-image Generation Models**](https://arxiv.org/abs/2210.00968)  
-<font face="Calibri">*Yixin Wu, Ning Yu, Zheng Li, Michael Backes, Yang Zhang*</font>
-
 
 <!-- 
 Template
@@ -177,6 +174,8 @@ Template
 + [**Membership Inference of Diffusion Models**](https://arxiv.org/abs/2301.09956)  
 <font face="Calibri">*Hailong Hu, Jun Pang*</font>
 
++ [**Membership Inference Attacks Against Text-to-image Generation Models**](https://arxiv.org/abs/2210.00968)  
+<font face="Calibri">*Yixin Wu, Ning Yu, Zheng Li, Michael Backes, Yang Zhang*</font>
 
 <!-- 
 Template
