@@ -24,6 +24,9 @@ Template
 
 ### Image generation
 
++ [**IMPRESS: Evaluating the Resilience of Imperceptible Perturbations Against Unauthorized Data Usage in Diffusion-Based Generative AI**](Bochuan Cao, Changjiang Li, Ting Wang, Jinyuan Jia, Bo Li, Jinghui Chen)  
+<font face="Calibri">*https://arxiv.org/abs/2310.19248*</font> 
+
 + [**Distilling Adversarial Prompts from Safety Benchmarks: Report for the Adversarial Nibbler Challenge**](https://arxiv.org/abs/2309.11575)  
 <font face="Calibri">*Manuel Brack, Patrick Schramowski, Kristian Kersting*</font> 
 
