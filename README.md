@@ -139,7 +139,7 @@ Template
 <font face="Calibri">*authors*</font> 
 -->
 
-### Membership Inference
+### Membership Inference Attack
 
 + [**Black-box Membership Inference Attacks against Fine-tuned Diffusion Models**](https://arxiv.org/abs/2312.08207)  
 <font face="Calibri">*Yan Pang, Tianhao Wang*</font> 
@@ -215,7 +215,23 @@ Template
 + [**The Stable Signature: Rooting Watermarks in Latent Diffusion Models**](https://arxiv.org/abs/2303.15435)  
 <font face="Calibri">*Pierre Fernandez, Guillaume Couairon, Hervé Jégou, Matthijs Douze, Teddy Furon*</font>
 
++ [**A Recipe for Watermarking Diffusion Models**](https://arxiv.org/abs/2303.10137)  
+<font face="Calibri">*Yunqing Zhao, Tianyu Pang, Chao Du, Xiao Yang, Ngai-Man Cheung, Min Lin*</font> 
 
++ [**Supervised GAN Watermarking for Intellectual Property Protection**](https://arxiv.org/abs/2209.03466)  
+<font face="Calibri">*Jianwei Fei, Zhihua Xia, Benedetta Tondi, Mauro Barni*</font> 
+
++ [**Protecting Intellectual Property of Generative Adversarial Networks from Ambiguity Attack**](https://arxiv.org/abs/2102.04362)  
+<font face="Calibri">*Ding Sheng Ong, Chee Seng Chan, Kam Woh Ng, Lixin Fan, Qiang Yang*</font> 
+
++ [**Artificial Fingerprinting for Generative Models: Rooting Deepfake Attribution in Training Data**](https://arxiv.org/abs/2007.08457)  
+<font face="Calibri">*Ning Yu, Vladislav Skripniuk, Sahar Abdelnabi, Mario Fritz*</font> 
+
+<!-- 
+Template
++ [**title**](link)  
+<font face="Calibri">*authors*</font> 
+-->
 
 ### Multimodal Foundation Modal
 
