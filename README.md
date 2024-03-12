@@ -24,8 +24,8 @@ Template
 
 ### Image generation
 
-+ [**IMPRESS: Evaluating the Resilience of Imperceptible Perturbations Against Unauthorized Data Usage in Diffusion-Based Generative AI**](Bochuan Cao, Changjiang Li, Ting Wang, Jinyuan Jia, Bo Li, Jinghui Chen)  
-<font face="Calibri">*https://arxiv.org/abs/2310.19248*</font> 
++ [**IMPRESS: Evaluating the Resilience of Imperceptible Perturbations Against Unauthorized Data Usage in Diffusion-Based Generative AI**](https://arxiv.org/abs/2310.19248)  
+<font face="Calibri">*Bochuan Cao, Changjiang Li, Ting Wang, Jinyuan Jia, Bo Li, Jinghui Chen*</font> 
 
 + [**Distilling Adversarial Prompts from Safety Benchmarks: Report for the Adversarial Nibbler Challenge**](https://arxiv.org/abs/2309.11575)  
 <font face="Calibri">*Manuel Brack, Patrick Schramowski, Kristian Kersting*</font> 
@@ -188,6 +188,9 @@ Template
 
 ### Watermark
 
++ [**Benchmarking the Robustness of Image Watermarks**](https://arxiv.org/abs/2401.08573)  
+<font face="Calibri">*Bang An, Mucong Ding, Tahseen Rabbani, Aakriti Agrawal, Yuancheng Xu, Chenghao Deng, Sicheng Zhu, Abdirisak Mohamed, Yuxin Wen, Tom Goldstein, Furong Huang*</font> 
+
 + [**EditGuard: Versatile Image Watermarking for Tamper Localization and Copyright Protection**](https://arxiv.org/abs/2312.08883)  
 <font face="Calibri">*Xuanyu Zhang, Runyi Li, Jiwen Yu, Youmin Xu, Weiqi Li, Jian Zhang*</font> 
 
@@ -208,6 +211,9 @@ Template
 
 + [**DiffusionShield: A Watermark for Copyright Protection against Generative Diffusion Models**](https://arxiv.org/abs/2306.04642)  
 <font face="Calibri">*Yingqian Cui, Jie Ren, Han Xu, Pengfei He, Hui Liu, Lichao Sun, Yue Xing, Jiliang Tang*</font>
+
++ [**Invisible Image Watermarks Are Provably Removable Using Generative AI**](https://arxiv.org/abs/2306.01953)  
+<font face="Calibri">*Xuandong Zhao, Kexun Zhang, Zihao Su, Saastha Vasan, Ilya Grishchenko, Christopher Kruegel, Giovanni Vigna, Yu-Xiang Wang, Lei Li*</font> 
 
 + [**Tree-Ring Watermarks: Fingerprints for Diffusion Images that are Invisible and Robust**](https://arxiv.org/abs/2305.20030)  
 <font face="Calibri">*Yuxin Wen, John Kirchenbauer, Jonas Geiping, Tom Goldstein*</font> 
