@@ -191,7 +191,7 @@ Template
 + [**Benchmarking the Robustness of Image Watermarks**](https://arxiv.org/abs/2401.08573)  
 <font face="Calibri">*Bang An, Mucong Ding, Tahseen Rabbani, Aakriti Agrawal, Yuancheng Xu, Chenghao Deng, Sicheng Zhu, Abdirisak Mohamed, Yuxin Wen, Tom Goldstein, Furong Huang*</font> 
 
-+ [**EditGuard: Versatile Image Watermarking for Tamper Localization and Copyright Protection**](https://arxiv.org/abs/2312.08883)  
++ [**EditGuard: Versatile Image Watermarking for Tamper Localization and Copyright Protection**](https://arxiv.org/abs/2312.08883) *CVPR 2024* 
 <font face="Calibri">*Xuanyu Zhang, Runyi Li, Jiwen Yu, Youmin Xu, Weiqi Li, Jian Zhang*</font> 
 
 + [**A Somewhat Robust Image Watermark against Diffusion-based Editing Models**](https://arxiv.org/abs/2311.13713)  
@@ -200,7 +200,7 @@ Template
 + [**Warfare:Breaking the Watermark Protection of AI-Generated Content**](https://arxiv.org/abs/2310.07726)  
 <font face="Calibri">*Guanlin Li, Yifei Chen, Jie Zhang, Jiwei Li, Shangwei Guo, Tianwei Zhang*</font> 
 
-+ [**Leveraging Optimization for Adaptive Attacks on Image Watermarks**](https://arxiv.org/abs/2309.16952)  
++ [**Leveraging Optimization for Adaptive Attacks on Image Watermarks**](https://arxiv.org/abs/2309.16952) *ICLR 2024* 
 <font face="Calibri">*Nils Lukas, Abdulrahman Diaa, Lucas Fenaux, Florian Kerschbaum*</font> 
 
 + [**Catch You Everything Everywhere: Guarding Textual Inversion via Concept Watermarking**](https://arxiv.org/abs/2309.05940)  
@@ -215,10 +215,10 @@ Template
 + [**Invisible Image Watermarks Are Provably Removable Using Generative AI**](https://arxiv.org/abs/2306.01953)  
 <font face="Calibri">*Xuandong Zhao, Kexun Zhang, Zihao Su, Saastha Vasan, Ilya Grishchenko, Christopher Kruegel, Giovanni Vigna, Yu-Xiang Wang, Lei Li*</font> 
 
-+ [**Tree-Ring Watermarks: Fingerprints for Diffusion Images that are Invisible and Robust**](https://arxiv.org/abs/2305.20030)  
++ [**Tree-Ring Watermarks: Fingerprints for Diffusion Images that are Invisible and Robust**](https://arxiv.org/abs/2305.20030)  *NeurIPS 2023*
 <font face="Calibri">*Yuxin Wen, John Kirchenbauer, Jonas Geiping, Tom Goldstein*</font> 
 
-+ [**The Stable Signature: Rooting Watermarks in Latent Diffusion Models**](https://arxiv.org/abs/2303.15435)  
++ [**The Stable Signature: Rooting Watermarks in Latent Diffusion Models**](https://arxiv.org/abs/2303.15435) *ICCV 2023* 
 <font face="Calibri">*Pierre Fernandez, Guillaume Couairon, Hervé Jégou, Matthijs Douze, Teddy Furon*</font>
 
 + [**A Recipe for Watermarking Diffusion Models**](https://arxiv.org/abs/2303.10137)  
@@ -227,10 +227,10 @@ Template
 + [**Supervised GAN Watermarking for Intellectual Property Protection**](https://arxiv.org/abs/2209.03466)  
 <font face="Calibri">*Jianwei Fei, Zhihua Xia, Benedetta Tondi, Mauro Barni*</font> 
 
-+ [**Protecting Intellectual Property of Generative Adversarial Networks from Ambiguity Attack**](https://arxiv.org/abs/2102.04362)  
++ [**Protecting Intellectual Property of Generative Adversarial Networks from Ambiguity Attack**](https://arxiv.org/abs/2102.04362)  *CVPR 2021* 
 <font face="Calibri">*Ding Sheng Ong, Chee Seng Chan, Kam Woh Ng, Lixin Fan, Qiang Yang*</font> 
 
-+ [**Artificial Fingerprinting for Generative Models: Rooting Deepfake Attribution in Training Data**](https://arxiv.org/abs/2007.08457)  
++ [**Artificial Fingerprinting for Generative Models: Rooting Deepfake Attribution in Training Data**](https://arxiv.org/abs/2007.08457)  *ICCV 2021*
 <font face="Calibri">*Ning Yu, Vladislav Skripniuk, Sahar Abdelnabi, Mario Fritz*</font> 
 
 <!-- 
