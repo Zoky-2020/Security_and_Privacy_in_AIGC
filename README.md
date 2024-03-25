@@ -241,6 +241,17 @@ Template
 
 ### Multimodal Foundation Modal
 
++ [**Test-Time Backdoor Attacks on Multimodal Large Language Models**](https://arxiv.org/abs/2402.08577)  
+<font face="Calibri">*Dong Lu, Tianyu Pang, Chao Du, Qian Liu, Xianjun Yang, Min Lin*</font> 
+
 + [**How Robust is Google's Bard to Adversarial Image Attacks?**](https://arxiv.org/abs/2309.11751)  
 <font face="Calibri">*Yinpeng Dong, Huanran Chen, Jiawei Chen, Zhengwei Fang, Xiao Yang, Yichi Zhang, Yu Tian, Hang Su, Jun Zhu*</font>
 
++ [**On the Adversarial Robustness of Multi-Modal Foundation Models**](https://arxiv.org/abs/2308.10741)  
+<font face="Calibri">*Christian Schlarmann, Matthias Hein*</font> 
+
++ [**Visual Adversarial Examples Jailbreak Aligned Large Language Models**](https://arxiv.org/abs/2306.13213)  
+<font face="Calibri">*Xiangyu Qi, Kaixuan Huang, Ashwinee Panda, Peter Henderson, Mengdi Wang, Prateek Mittal*</font> 
+
++ [**On Evaluating Adversarial Robustness of Large Vision-Language Models**](https://arxiv.org/abs/2305.16934)  
+<font face="Calibri">*Yunqing Zhao, Tianyu Pang, Chao Du, Xiao Yang, Chongxuan Li, Ngai-Man Cheung, Min Lin*</font> 
