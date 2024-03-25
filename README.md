@@ -177,7 +177,8 @@ Template
 + [**Membership Inference of Diffusion Models**](https://arxiv.org/abs/2301.09956)  
 <font face="Calibri">*Hailong Hu, Jun Pang*</font>
 
-+ [**Membership Inference Attacks Against Text-to-image Generation Models**](https://arxiv.org/abs/2210.00968)  
++ [**Membership Inference Attacks Against Text-to-image Generat
+1ion Models**](https://arxiv.org/abs/2210.00968)  
 <font face="Calibri">*Yixin Wu, Ning Yu, Zheng Li, Michael Backes, Yang Zhang*</font>
 
 <!-- 
@@ -187,6 +188,9 @@ Template
 -->
 
 ### Watermark
+
++ [**A Watermark-Conditioned Diffusion Model for IP Protection**](https://arxiv.org/abs/2403.10893)  
+<font face="Calibri">*Rui Min, Sen Li, Hongyang Chen, Minhao Cheng*</font> 
 
 + [**Benchmarking the Robustness of Image Watermarks**](https://arxiv.org/abs/2401.08573)  
 <font face="Calibri">*Bang An, Mucong Ding, Tahseen Rabbani, Aakriti Agrawal, Yuancheng Xu, Chenghao Deng, Sicheng Zhu, Abdirisak Mohamed, Yuxin Wen, Tom Goldstein, Furong Huang*</font> 
@@ -217,6 +221,9 @@ Template
 
 + [**Tree-Ring Watermarks: Fingerprints for Diffusion Images that are Invisible and Robust**](https://arxiv.org/abs/2305.20030)  *NeurIPS 2023*  
 <font face="Calibri">*Yuxin Wen, John Kirchenbauer, Jonas Geiping, Tom Goldstein*</font> 
+
++ [**Evading Watermark based Detection of AI-Generated Content**](https://arxiv.org/abs/2305.03807)  
+<font face="Calibri">*Zhengyuan Jiang, Jinghuai Zhang, Neil Zhenqiang Gong*</font> 
 
 + [**The Stable Signature: Rooting Watermarks in Latent Diffusion Models**](https://arxiv.org/abs/2303.15435) *ICCV 2023*  
 <font face="Calibri">*Pierre Fernandez, Guillaume Couairon, Hervé Jégou, Matthijs Douze, Teddy Furon*</font>
