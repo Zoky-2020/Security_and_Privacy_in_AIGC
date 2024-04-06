@@ -189,6 +189,10 @@ Template
 
 ### Watermark
 
++ [**Toward effective protection against diffusion-based mimicry through score distillation**](https://openreview.net/forum?id=NzxCMe88HX)  *ICLR2024*
+<Font face='Calibri'>*Haotian Xue, Chumeng Liang, Xiaoyu Wu, Yongxin Chen*</font>
+
+
 + [**A Watermark-Conditioned Diffusion Model for IP Protection**](https://arxiv.org/abs/2403.10893)  
 <font face="Calibri">*Rui Min, Sen Li, Hongyang Chen, Minhao Cheng*</font> 
 
