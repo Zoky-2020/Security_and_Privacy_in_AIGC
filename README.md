@@ -24,6 +24,9 @@ Template
 
 ### Image generation
 
++ [**Perturbing Attention Gives You More Bang for the Buck: Subtle Imaging Perturbations That Efficiently Fool Customized Diffusion Models**](https://arxiv.org/abs/2404.15081)  
+<font face="Calibri">*Jingyao Xu, Yuetong Lu, Yandong Li, Siyang Lu, Dongdong Wang, Xiang Wei*</font> 
+
 + [**IMPRESS: Evaluating the Resilience of Imperceptible Perturbations Against Unauthorized Data Usage in Diffusion-Based Generative AI**](https://arxiv.org/abs/2310.19248)  
 <font face="Calibri">*Bochuan Cao, Changjiang Li, Ting Wang, Jinyuan Jia, Bo Li, Jinghui Chen*</font> 
 
@@ -189,9 +192,17 @@ Template
 
 ### Watermark
 
++ [**Adaptive and robust watermark against model extraction attack**](https://arxiv.org/abs/2405.02365)  
+<font face="Calibri">*Kaiyi Pang, Tao Qi, Chuhan Wu, Minhao Bai*</font> 
+
 + [**Toward effective protection against diffusion-based mimicry through score distillation**](https://openreview.net/forum?id=NzxCMe88HX)  *ICLR2024*
 <Font face='Calibri'>*Haotian Xue, Chumeng Liang, Xiaoyu Wu, Yongxin Chen*</font>
 
++ [**Reliable Model Watermarking: Defending Against Theft without Compromising on Evasion**](https://arxiv.org/abs/2404.13518)  
+<font face="Calibri">*Hongyu Zhu, Sichu Liang, Wentao Hu, Fangqi Li, Ju Jia, Shilin Wang*</font> 
+
++ [**Gaussian Shading: Provable Performance-Lossless Image Watermarking for Diffusion Models**](https://arxiv.org/abs/2404.04956)  
+<font face="Calibri">*Zijin Yang, Kai Zeng, Kejiang Chen, Han Fang, Weiming Zhang, Nenghai Yu*</font> 
 
 + [**A Watermark-Conditioned Diffusion Model for IP Protection**](https://arxiv.org/abs/2403.10893)  
 <font face="Calibri">*Rui Min, Sen Li, Hongyang Chen, Minhao Cheng*</font> 
